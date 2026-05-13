@@ -1,12 +1,17 @@
 # sql_project1
-project for sql portfolio
+Project for sql portfolio - data analysis to understand customer behavior using their point of sale data.
+
+Datasets:
+Customer: Customer demographics
+Transactions: Customer transaction details
+Product category: Product category and sub category information
 
 
 The project data and questions is sourced from https://github.com/Mahanteshrn/SQL-Retail-Data-Analysis
 
 Below are the answers to the solutions.
 
-
+----------------------------------------------------------------------------------------------------
 
 1. What is the total number of rows in each of the 3 tables in the database?
 
