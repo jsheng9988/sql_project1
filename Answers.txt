@@ -167,7 +167,7 @@ total_revenue
 
 
 
-9. 
+9. What is the total revenue generated from "Male" customers in "Electronics" category? Output should display total revenue by prod sub-cat.
 
 
 
@@ -457,7 +457,7 @@ e-Shop		22763	19824816.05
 
 
 
-14. 
+14. What are the categories for which average revenue is above the overall average.
 
 The average amount is '2107.31'
 
@@ -467,7 +467,7 @@ category	sales_more_than_average
 'Books', 	'2112.82'
 
 
-15. 
+15. Find the average and total revenue by each subcategory for the categories which are among top 5 categories in terms of quantity sold.
 category		subcategory	qverage_revenue	total_revenue	quantity_sold
 Home and kitchen	Tools	2024.37	2149882.47	2589
 Electronics		Mobiles	2181.09	2248702.63	2587
